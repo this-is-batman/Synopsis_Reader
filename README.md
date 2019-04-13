@@ -16,3 +16,4 @@ You will need the following dependencies:-
 To run the program:-
 ` python3 gui_img.py`
 
+![](Demo/imdb_helper.gif)
